@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0087-scramble-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
