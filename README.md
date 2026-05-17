@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
