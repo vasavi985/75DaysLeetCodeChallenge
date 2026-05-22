@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
