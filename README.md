@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1773-count-items-matching-a-rule](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [1773-count-items-matching-a-rule](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1773-count-items-matching-a-rule) |
 ## Divide and Conquer
 |  |
 | ------- |
