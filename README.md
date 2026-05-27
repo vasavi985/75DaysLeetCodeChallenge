@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1773-count-items-matching-a-rule](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1512-number-of-good-pairs](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [1512-number-of-good-pairs](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
