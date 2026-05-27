@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0905-sort-array-by-parity](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
