@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0771-jewels-and-stones](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1773-count-items-matching-a-rule](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/1773-count-items-matching-a-rule) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vasavi985/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
